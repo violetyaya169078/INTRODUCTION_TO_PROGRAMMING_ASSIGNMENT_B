@@ -1,6 +1,8 @@
 # INTRODUCTION_TO_PROGRAMMING_ASSIGNMENT_B
 IFN555 Introduction To Programming Assignment B (QUT, SemesterA, 2022)
 
+--*Programmed in C#*--
+
 Queensland State hosts the Queensland Idol competition each summer during the State fair. The talent competition takes place over a three-day period during which contestants are eliminated following rounds of performances until the year’s ultimate winner is chosen. Write a program named QueenslandRevenue that performs the following five tasks. 
 1.	Displaying the competition’s motto, which is “The Stars shine in Queensland”. 
 Make the motto surrounded by a border composed of asterisks. 	
